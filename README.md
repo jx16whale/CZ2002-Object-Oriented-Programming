@@ -1,4 +1,4 @@
-# RRPSS
+# Restaurant Reservation Point of Sale System (RRPSS)
 
 CZ2002 Object Oriented Programming Project 
 
